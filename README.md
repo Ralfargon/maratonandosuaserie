@@ -1,5 +1,3 @@
-https://img.shields.io/github/license/Ralfargon/maratonandosuaserie
-
 # PowerGem
 
 PowerGem Project
